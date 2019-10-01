@@ -14,7 +14,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 ### Jakarta
 
-<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="150px" width="150px" align="left" alt="" />
 
 **Riza Fahmi**\
 Topics: JavaScript, Node.js, React, ReasonML, Elixir, PWA, Web, Community,\
