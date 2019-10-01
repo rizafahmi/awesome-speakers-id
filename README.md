@@ -10,6 +10,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
+- [Yogyakarta](#Yogyakarta)
 
 ### Jakarta
 
@@ -17,6 +18,35 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 **Riza Fahmi**\
 Topics: JavaScript, Node.js, React, ReasonML, Elixir, PWA, Web, Community,\
+Jabatan: Chief Evangelist at @hacktiv8, Web GDE \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/rizafahmi22
 
 ### Malang
+
+<img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Andi N. Dirgantara**\
+Topics: Big Data, Hadoop, Spark, Google Cloud, Scala, JavaScript, Go, Python, Docker, Kubernetes\
+Jabatan: Data Engineer at @traveloka\
+Domisili: Malang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan\
+https://twitter.com/andi_dirgantara
+
+
+### Yogyakarta
+
+<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Mirza Chilman**\
+Topics: JavaScript, Python, Docker, CI/CD, Community, Education \
+Jabatan: Software Engineer at AccelByte \
+Domisili: Yogyakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan\
+https://twitter.com/MirzaChilman
+
+
