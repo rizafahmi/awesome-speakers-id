@@ -29,7 +29,7 @@ https://twitter.com/rizafahmi22
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Andi N. Dirgantara**\
-Topics: Big Data, Hadoop, Spark, Google Cloud, Scala, JavaScript, Go, Python, Docker, Kubernetes\
+Topics: Hadoop, Spark, Google Cloud, Scala, JavaScript, Go, Python, Docker, Kubernetes\
 Jabatan: Data Engineer at @traveloka\
 Domisili: Malang \
 Bersedia diundang keluar daerah domisili: ✅ \
