@@ -26,7 +26,7 @@ https://twitter.com/rizafahmi22
 
 ### Malang
 
-<img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Andi N. Dirgantara**\
 Topics: Big Data, Hadoop, Spark, Google Cloud, Scala, JavaScript, Go, Python, Docker, Kubernetes\
@@ -39,7 +39,7 @@ https://twitter.com/andi_dirgantara
 
 ### Yogyakarta
 
-<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Mirza Chilman**\
 Topics: JavaScript, Python, Docker, CI/CD, Community, Education \
