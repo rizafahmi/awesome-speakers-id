@@ -4,7 +4,7 @@
 
 Mari kita kumpulkan data para developer keren asal Indonesia yang dapat diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber agar mudah dicari dan ditemukan.
 
-Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih baik.
+Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih baik. Jika ingin menambahkan teman, saya sarankan minta izin terlebih dahulu biar lebih sopan 🙇‍♂️
 
 ## Contents
 
