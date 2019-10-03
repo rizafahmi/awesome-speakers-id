@@ -57,8 +57,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/girikuncoro
 
-
-<img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+<img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Rendy B. Junior**\
 Topics: Big Data, BigQuery, Spark, Beam / DataFlow, Airflow, Kafka, BigTable, Data Warehouse\
