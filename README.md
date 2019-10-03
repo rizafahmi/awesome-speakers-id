@@ -34,6 +34,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
 
+<img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Giri Kuncoro**\
+Topics: Cloud Native, Kubernetes, Operating System, CKA,\
+Jabatan: Cloud Foundation, Go-jek \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/girikuncoro
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
