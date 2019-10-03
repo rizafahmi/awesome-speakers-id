@@ -34,6 +34,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
 
+<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Onesinus Saut Parulian**\
+Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framework \
+Jabatan: Web Programmer at PT. Supranusa Sindata \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: \
+https://twitter.com/OnesinusSPT
+
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
