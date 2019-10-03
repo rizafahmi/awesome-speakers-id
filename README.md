@@ -24,6 +24,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/rizafahmi22
 
+<img src="https://twitter.com/nouvrizky10/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Sidiq Permana**\
+Topics: Android, Java, Kotlin, Design Pattern, Machine Learning, Community,\
+Jabatan: Chief Innovation Officer at Nusantara Benta Studio, Android GDE \
+Domisili: Tangerang, Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau GDE \
+https://twitter.com/nouvrizky10
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
