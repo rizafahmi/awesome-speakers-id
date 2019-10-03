@@ -11,6 +11,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
+- [Bandung](#Bandung)
 
 ### Jakarta
 
@@ -60,3 +61,14 @@ Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
 
 
+### Bandung
+
+<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Raihan Nismara**\
+Topics: JavaScript, TypeScript, Angular, Firebase, CI/CD, PHP, Education \
+Jabatan: Full-Stack Developer at BelanjaQu \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/Rayhan_nj
