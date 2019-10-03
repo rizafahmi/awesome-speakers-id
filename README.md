@@ -28,7 +28,7 @@ https://twitter.com/rizafahmi22
 
 **Sidiq Permana**\
 Topics: Android, Java, Kotlin, Design Pattern, Machine Learning, Community,\
-Jabatan: Chief Innovation Officer at Nusantara Benta Studio, Android GDE \
+Jabatan: Chief Innovation Officer at Nusantara Beta Studio, Android GDE \
 Domisili: Tangerang, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
