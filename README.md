@@ -52,6 +52,16 @@ https://twitter.com/djiwandou
 
 ### Jakarta
 
+<img src="https://avatars2.githubusercontent.com/u/5897415?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Abdul Fattah Ikhsan**\
+Topics: Javascript, TypeScript, Node.js, React Native, Flutter, Ruby, Community,\
+Jabatan: Software Engineer @Wallex \
+Domisili: Bekasi, Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/abdfattahikhsan
+
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Giri Kuncoro**\
