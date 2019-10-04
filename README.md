@@ -39,6 +39,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://twitter.com/Rayhan_nj
 
+<img src="https://avatars.io/twitter/djiwandou?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Djiwandou Putro**\
+Topics: IoT, Embedded System, Laravel, VueJS, CI/CD, Education, System Engineering, Engineering Management \
+Jabatan: Technology Consultant \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang \
+https://twitter.com/djiwandou
+
 
 ### Jakarta
 
