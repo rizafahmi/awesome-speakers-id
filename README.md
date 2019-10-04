@@ -62,6 +62,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/abdfattahikhsan
 
+<img src="https://avatars3.githubusercontent.com/u/3364191?s=460&v=4" height="168px" width="168px" align="left" />
+
+**Ady Rahmat MA**\
+Topics: Python, Go \
+Jabatan: CEO @Valutac \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/ngurajeka
+
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Giri Kuncoro**\
