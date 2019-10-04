@@ -122,7 +122,7 @@ Topics: Golang, Developer Experience\
 Jabatan: Software Engineer at @bukalapak\
 Domisili: Malang \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung pengundan atau perusahaan\
+Akomodasi: Dapat ditanggung pengundang atau perusahaan\
 https://twitter.com/kaptenupi
 
 
