@@ -115,6 +115,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/andi_dirgantara
 
+<img src="https://twitter.com/kaptenupi/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Moch Lutfi**\
+Topics: Golang, Developer Experience\
+Jabatan: Software Engineer at @bukalapak\
+Domisili: Malang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan\
+https://twitter.com/kaptenupi
+
 
 ### Yogyakarta
 
