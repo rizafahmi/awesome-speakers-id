@@ -46,7 +46,7 @@ Topics: IoT, Embedded System, Laravel, VueJS, CI/CD, Education, System Engineeri
 Jabatan: Technology Consultant \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung pengundang \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
 
