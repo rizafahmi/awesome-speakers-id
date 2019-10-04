@@ -11,6 +11,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
+- [Bali](#Bali)
 - [Bandung](#Bandung)
 
 ### Jakarta
@@ -93,6 +94,19 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
+
+
+### Bali
+
+<img src="https://twitter.com/_satyakresna/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Satya Kresna**\
+Topics: Web Development, JavaScript, PHP. \
+Jabatan: Web Programmer Universitas Udayana \
+Domisili: Bali \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung pihak perusahaan \
+https://twitter.com/_satyakresna
 
 
 ### Bandung
