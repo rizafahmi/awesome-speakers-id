@@ -55,7 +55,7 @@ https://twitter.com/djiwandou
 <img src="https://avatars2.githubusercontent.com/u/5897415?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
 **Abdul Fattah Ikhsan**\
-Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
+Topics: Javascript, TypeScript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer @Wallex \
 Domisili: Bekasi, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
