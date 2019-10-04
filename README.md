@@ -42,7 +42,7 @@ https://twitter.com/Rayhan_nj
 <img src="https://avatars.io/twitter/djiwandou?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Djiwandou Putro**\
-Topics: IoT, Embedded System, Laravel, VueJS, CI/CD, Education, System Engineering, Engineering Management \
+Topics: IoT, Embedded System, Laravel, VueJS, CI/CD, Education, System Engineering, Engineering Mgmt \
 Jabatan: Technology Consultant \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
