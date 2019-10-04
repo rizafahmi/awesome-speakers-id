@@ -12,6 +12,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
 - [Bali](#Bali)
+- [Bandung](#Bandung)
 
 ### Jakarta
 
@@ -29,11 +30,45 @@ https://twitter.com/rizafahmi22
 
 **Sidiq Permana**\
 Topics: Android, Java, Kotlin, Design Pattern, Machine Learning, Community,\
-Jabatan: Chief Innovation Officer at Nusantara Benta Studio, Android GDE \
+Jabatan: Chief Innovation Officer at Nusantara Beta Studio, Android GDE \
 Domisili: Tangerang, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
+
+
+<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Onesinus Saut Parulian**\
+Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framework \
+Jabatan: Web Programmer at PT. Supranusa Sindata \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/OnesinusSPT
+
+
+<img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Giri Kuncoro**\
+Topics: Cloud Native, Kubernetes, Operating System, CKA,\
+Jabatan: Cloud Foundation, Go-jek \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/girikuncoro
+
+
+<img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Rendy B. Junior**\
+Topics: Big Data, BigQuery, Spark, Beam / DataFlow, Airflow, Kafka, BigTable, Data Warehouse\
+Jabatan: Data Engineering Lead @Traveloka \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/rendybjunior
+
 
 ### Malang
 
@@ -68,7 +103,20 @@ https://twitter.com/MirzaChilman
 **Satya Kresna**\
 Topics: Web Development, JavaScript, PHP. \
 Jabatan: Web Programmer Universitas Udayana \
-Domisili: Badung \
+Domisili: Bali \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Tidak ditanggung pihak perusahaan \
+Akomodasi: TIDAK ditanggung pihak perusahaan \
 https://twitter.com/_satyakresna
+
+
+### Bandung
+
+<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Raihan Nismara**\
+Topics: JavaScript, TypeScript, Angular, Firebase, CI/CD, PHP, Education \
+Jabatan: Full-Stack Developer at BelanjaQu \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/Rayhan_nj
