@@ -147,3 +147,16 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
+
+
+### Semarang
+
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Rizma Abdullah Hanif**\
+Topics: Android Kotlin, Community, Education \
+Jabatan: CFO Tukutu, Software Engineer at Dinustek, CEO Sandec \
+Domisili: Semarang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
+https://twitter.com/MirzaChilman
