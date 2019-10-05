@@ -13,6 +13,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
+- [Semarang](#Semarang)
 
 ### Bali
 
@@ -155,8 +156,8 @@ https://twitter.com/MirzaChilman
 
 **Rizma Abdullah Hanif**\
 Topics: Android Kotlin, Community, Education \
-Jabatan: CFO Tukutu, Software Engineer at Dinustek, CEO Sandec \
+Jabatan: Software Engineer at Dinustek, CEO Sandec \
 Domisili: Semarang \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
-https://twitter.com/MirzaChilman
+https://github.com/hanifabdullah21
