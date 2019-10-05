@@ -49,6 +49,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
+
+**Sonny Lazuardi**\
+Topics: Web/Mobile Development (JavaScript, React), Product Design \
+Jabatan: Lead UX Engineer @grab \
+Domisili: Singapore \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung sendiri \
+https://twitter.com/sonnylazuardi
+
 
 ### Jakarta
 
