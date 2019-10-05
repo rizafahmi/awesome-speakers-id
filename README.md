@@ -13,6 +13,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
+- [Lampung](#Lampung)
 
 ### Bali
 
@@ -147,3 +148,16 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
+
+
+### Lampung
+
+<img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Muhamad Danil Rafiqi**\
+Topics: JavaScript, TypeScript, Node.js, React.js, React Native, PHP, Laravel, CodeIgniter \
+Jabatan: Founder at LampungDev and Software Engineer at Adroady Media\
+Domisili: Lampung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Tidak ditanggung perusahaan\
+https://twitter.com/rafiqidanil
