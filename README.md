@@ -54,6 +54,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
+
+**Sonny Lazuardi**\
+Topics: Web/Mobile Development (JavaScript, React), Product Design \
+Jabatan: Lead UX Engineer @grab \
+Domisili: Singapore \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung sendiri \
+https://twitter.com/sonnylazuardi
+
+
 <img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="left" alt="" />
 
 **Yahya F. Al Fatih**\
@@ -84,6 +95,7 @@ Jabatan: Software Engineer PROSPACE\
 Domisili: Batam\
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: TIDAK ditanggung pihak manapun
+
 
 ### Jakarta
 
