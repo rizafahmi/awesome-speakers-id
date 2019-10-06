@@ -13,6 +13,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Lampung](#Lampung)
 - [Malang](#Malang)
+- [Palembang](#Palembang)
 - [Yogyakarta](#Yogyakarta)
 - [Semarang](#Semarang)
 
@@ -178,6 +179,29 @@ Domisili: Malang \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan\
 https://twitter.com/kaptenupi
+
+
+### Palembang
+
+<img src="https://twitter.com/ariefr23/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Arief Rahmansyah**\
+Topics: Go, Docker, Kubernetes, Machine Learning Platform \
+Jabatan: Machine Learning Engineer at @gojek\
+Domisili: Singapaore \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang, perusahaan atau sendiri\
+https://twitter.com/ariefr23
+
+<img src="https://twitter.com/morensya/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Faisal Morensya**\
+Topics: Java, Reactive Programming, Spring Reactor, Docker \
+Jabatan: Software Engineer at @tiket\
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan\
+https://twitter.com/morensya
 
 
 ### Yogyakarta
