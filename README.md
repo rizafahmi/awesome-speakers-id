@@ -61,7 +61,7 @@ Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer PROSPACE
 Domisili: Batam
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: tidak ditanggung pihak manapun
+Akomodasi: tidak ditanggung pihak manapun \
 
 ### Jakarta
 
