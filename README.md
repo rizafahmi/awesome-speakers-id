@@ -63,6 +63,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
 
+img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Galih Pratama**\
+Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
+Jabatan: Head of Digital Product at LEXAR.id \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/galpratama
+
 ### Batam
 
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
