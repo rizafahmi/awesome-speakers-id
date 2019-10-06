@@ -11,9 +11,10 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Bali](#Bali)
 - [Bandung](#Bandung)
 - [Jakarta](#Jakarta)
+- [Lampung](#Lampung)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
-- [Lampung](#Lampung)
+- [Semarang](#Semarang)
 
 ### Bali
 
@@ -62,6 +63,36 @@ Domisili: Bekasi, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/abdfattahikhsan
+
+<img src="https://media.licdn.com/dms/image/C5103AQFLLRVkUwk9Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=BSkJx_QqkuBaA9zTn3cjk0LCZ9HkEtCYyZaU9HwA5F0" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Adityo Pratomo**\
+Topics: Product Design, UI/UX, Web Frontend, Rust \
+Jabatan: UX Design [@Tetrate](https://www.tetrate.io/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan \
+https://twitter.com/kotakmakan
+
+<img src="https://media.licdn.com/dms/image/C5103AQGbGpzOJasXeQ/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=8CIhAvu1d15xLaTlrINcobiUyyHVFwL-VwYMlsV2n6M" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Angga Risky**\
+Topics: Web/Mobile Development, Product Design, UI/UX \
+Jabatan: Lecturer [@BWA_Studio](http://buildwithangga.com) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan \
+https://id.linkedin.com/in/angga-risky-58a981111
+
+<img src="https://pbs.twimg.com/profile_images/1079843240050708480/ImJ8mDY5_400x400.jpg" height="168px" width="168px" align="left" alt="" />
+
+**Diky Arga Anggara**\
+Topics: Frondend, WebVR, Micro Frontend, Vue.js, Design System component, PWA \
+Jabatan: Frontend Developer [@bukalapak](https://bukalapak.com) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau pengundang \
+https://twitter.com/dikyarga
 
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
@@ -114,6 +145,18 @@ Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
 
 
+### Lampung
+
+<img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Muhamad Danil Rafiqi**\
+Topics: JavaScript, TypeScript, Node.js, React.js, React Native, PHP, Laravel, CodeIgniter \
+Jabatan: Founder at LampungDev and Software Engineer at Adroady Media\
+Domisili: Lampung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung perusahaan\
+https://twitter.com/rafiqidanil
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
@@ -150,14 +193,14 @@ Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
 
 
-### Lampung
+### Semarang
 
-<img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
 
-**Muhamad Danil Rafiqi**\
-Topics: JavaScript, TypeScript, Node.js, React.js, React Native, PHP, Laravel, CodeIgniter \
-Jabatan: Founder at LampungDev and Software Engineer at Adroady Media\
-Domisili: Lampung \
+**Rizma Abdullah Hanif**\
+Topics: Android Kotlin, Community, Education \
+Jabatan: Software Engineer at Dinustek, CEO Sandec \
+Domisili: Semarang \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Tidak ditanggung perusahaan\
-https://twitter.com/rafiqidanil
+Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
+https://github.com/hanifabdullah21
