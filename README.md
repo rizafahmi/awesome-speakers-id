@@ -54,6 +54,26 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+<img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="left" alt="" />
+
+**Yahya F. Al Fatih**\
+Topics: Hacking/Security, Python, Django/Flask, GOlang, Docker,CI/CD+Gitlab , DevOps, Laravel  \
+Jabatan: Software Engineer at Nubela \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
+
+img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Galih Pratama**\
+Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
+Jabatan: Head of Digital Product at LEXAR.id \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/galpratama
+
 ### Batam
 
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
