@@ -13,6 +13,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Malang](#Malang)
 - [Yogyakarta](#Yogyakarta)
+- [Semarang](#Semarang)
 
 ### Bali
 
@@ -147,3 +148,16 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
+
+
+### Semarang
+
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Rizma Abdullah Hanif**\
+Topics: Android Kotlin, Community, Education \
+Jabatan: Software Engineer at Dinustek, CEO Sandec \
+Domisili: Semarang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
+https://github.com/hanifabdullah21
