@@ -58,8 +58,8 @@ https://twitter.com/djiwandou
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 **DARVIN SINAGA**\
 Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
-Jabatan: Software Engineer PROSPACE
-Domisili: Batam
+Jabatan: Software Engineer PROSPACE\
+Domisili: Batam\
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: tidak ditanggung pihak manapun \
 
