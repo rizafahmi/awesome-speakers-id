@@ -10,6 +10,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 - [Bali](#Bali)
 - [Bandung](#Bandung)
+- [Batam](#Batam)
 - [Jakarta](#Jakarta)
 - [Lampung](#Lampung)
 - [Malang](#Malang)
@@ -52,6 +53,15 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+### Batam
+
+<img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+**DARVIN SINAGA**\
+Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
+Jabatan: Software Engineer PROSPACE
+Domisili: Batam
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: tidak ditanggung pihak manapun
 
 ### Jakarta
 
