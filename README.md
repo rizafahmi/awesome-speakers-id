@@ -14,6 +14,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Jakarta](#Jakarta)
 - [Lampung](#Lampung)
 - [Malang](#Malang)
+- [Medan](#Medan)
 - [Palembang](#Palembang)
 - [Yogyakarta](#Yogyakarta)
 - [Semarang](#Semarang)
@@ -192,6 +193,19 @@ Akomodasi: Dapat ditanggung pengundang atau perusahaan\
 https://twitter.com/kaptenupi
 
 
+### Medan
+
+<img src="https://twitter.com/agusmistiawan_/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Agus Mistiawan**\
+Topics: Go, Docker, Kubernetes, Microservices Architecture \
+Jabatan: Software Engineer at @sorabel\
+Domisili: Medan \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/agusmistiawan_
+
+
 ### Palembang
 
 <img src="https://twitter.com/ariefr23/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
@@ -199,7 +213,7 @@ https://twitter.com/kaptenupi
 **Arief Rahmansyah**\
 Topics: Go, Docker, Kubernetes, Machine Learning Platform \
 Jabatan: Machine Learning Engineer at @gojek\
-Domisili: Singapaore \
+Domisili: Singapore \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang, perusahaan atau sendiri\
 https://twitter.com/ariefr23
