@@ -64,7 +64,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
 
-img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
+<img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Galih Pratama**\
 Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
