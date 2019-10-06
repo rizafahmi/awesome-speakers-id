@@ -61,8 +61,6 @@ Jabatan: Software Engineer at Nubela \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
-https://twitter.com/bukanyahya
-https://facebook.com/yahya.kimochi
 https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
 
 ### Batam
