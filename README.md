@@ -53,6 +53,18 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+![Yahya](https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C =168x168)
+
+**Yahya F. Al Fatih**\
+Topics: Hacking, Security, Clean Code, Security Code, Pentest, Python, Django, Flask, Golang, Docker, CI/CD , Gitlab CI/CD, DevOps, PHP, Laravel  \
+Jabatan: Software Engineer at Nubela \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/bukanyahya
+https://facebook.com/yahya.kimochi
+https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
+
 ### Batam
 
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
