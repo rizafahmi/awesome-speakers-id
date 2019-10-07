@@ -275,6 +275,17 @@ https://twitter.com/morensya
 
 ### Yogyakarta
 
+<img src="https://twitter.com/evanpurnama/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Evan Purnama**\
+Topics: Backend Related, Chat Technology, Realtime Technology, Product Development, Startup Related \
+Jabatan: CTO at Qiscus \
+Domisili: Yogyakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan\
+https://www.facebook.com/evanpurnama
+
+
 <img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Mirza Chilman**\
