@@ -275,16 +275,6 @@ https://twitter.com/morensya
 
 ### Yogyakarta
 
-<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
-
-**Mirza Chilman**\
-Topics: JavaScript, Python, Docker, CI/CD, Community, Education \
-Jabatan: Software Engineer at AccelByte \
-Domisili: Yogyakarta \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung perusahaan\
-https://twitter.com/MirzaChilman
-
 <img src="https://twitter.com/evanpurnama/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Evan Purnama**\
@@ -294,6 +284,17 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan\
 https://www.facebook.com/evanpurnama
+
+
+<img src="https://twitter.com/MirzaChilman/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Mirza Chilman**\
+Topics: JavaScript, Python, Docker, CI/CD, Community, Education \
+Jabatan: Software Engineer at AccelByte \
+Domisili: Yogyakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan\
+https://twitter.com/MirzaChilman
 
 
 ### Semarang
