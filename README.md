@@ -171,6 +171,18 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: ❌ \
 https://twitter.com/OnesinusSPT
 
+<img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Imam Aris Munandar**\
+Topics: Data Engineer, Data Scientist, UX Researcher, Design Sprint, Javascript \
+Jabatan: Web and Apps Development at Time International \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+http://twitter.com/imamaris
+
+
+
 <img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Rendy B. Junior**\
