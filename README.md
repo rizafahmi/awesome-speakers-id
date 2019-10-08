@@ -171,7 +171,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: ❌ \
 https://twitter.com/OnesinusSPT
 
-<img src="https://avatars3.githubusercontent.com/u/17156649?s=40&v=4" height="168px" width="168px" align="left" alt="" />
+<img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Imam Aris Munandar**\
 Topics: Data Engineer, Data Scientist, UX Researcher, Design Sprint, Javascript \
