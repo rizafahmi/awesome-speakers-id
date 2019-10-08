@@ -202,6 +202,16 @@ Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
 
 
+<img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Hepiska Franatagola**\
+Topics: Frontend, PWA, react, react-native, nodejs, graphql, atomic design pattern, image processing, machine learning, python \
+Jabatan: Lead Software engineer [@pomona](https://web.pomona.id/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung perusahaan \
+https://twitter.com/hepiska1
+
 ### Lampung
 
 <img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
