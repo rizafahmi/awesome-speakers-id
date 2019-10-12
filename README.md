@@ -184,7 +184,7 @@ http://twitter.com/imamaris
 <img src="https://twitter.com/imrenagi/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Imre Nagi**\
-Topics: Docker, Kubernetes, Spark, Beam, Big Data, Spark, Kafka, Microservices\
+Topics: Docker, Kubernetes, Beam, Big Data, Kafka, Microservices, Golang \
 Jabatan: Google Developer Expert \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
