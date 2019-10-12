@@ -154,8 +154,8 @@ https://twitter.com/dikyarga
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Giri Kuncoro**\
-Topics: Cloud Native, Kubernetes, Operating System, CKA,\
-Jabatan: Cloud Foundation, Go-jek \
+Topics: Cloud Native, Kubernetes, Docker, Distributed System, Devops \
+Jabatan: Kubernetes Maintainer @Gojek \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
