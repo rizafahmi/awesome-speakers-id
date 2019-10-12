@@ -161,16 +161,6 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/girikuncoro
 
-<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
-
-**Onesinus Saut Parulian**\
-Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framework \
-Jabatan: Web Programmer at PT. Supranusa Sindata \
-Domisili: Jakarta \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: ❌ \
-https://twitter.com/OnesinusSPT
-
 <img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Imam Aris Munandar**\
@@ -181,7 +171,15 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 http://twitter.com/imamaris
 
+<img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
+**Onesinus Saut Parulian**\
+Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framework \
+Jabatan: Web Programmer at PT. Supranusa Sindata \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/OnesinusSPT
 
 <img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
