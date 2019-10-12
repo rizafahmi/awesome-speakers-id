@@ -142,6 +142,16 @@ https://id.linkedin.com/in/angga-risky-58a981111
 
 <img src="https://pbs.twimg.com/profile_images/1079843240050708480/ImJ8mDY5_400x400.jpg" height="168px" width="168px" align="left" alt="" />
 
+**Antony Budianto**\
+Topics: Web Development, Open-source, JavaScript Tooling \
+Jabatan: Sr. Software Engineer Web Platform [@tokopedia](https://www.tokopedia.com) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://www.linkedin.com/in/antonybudianto
+
+<img src="https://avatars3.githubusercontent.com/u/7658554?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
 **Diky Arga Anggara**\
 Topics: Frondend, WebVR, Micro Frontend, Vue.js, Design System component, PWA \
 Jabatan: Frontend Developer [@bukalapak](https://bukalapak.com) \
@@ -149,7 +159,6 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau pengundang \
 https://twitter.com/dikyarga
-
 
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
