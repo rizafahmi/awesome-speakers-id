@@ -181,7 +181,15 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 http://twitter.com/imamaris
 
+<img src="https://twitter.com/imrenagi/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
+**Imre Nagi**\
+Topics: Docker, Kubernetes, Spark, Beam, Big Data, Spark, Kafka, Microservices\
+Jabatan: Google Developer Expert \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/imrenagi
 
 <img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
