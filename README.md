@@ -236,6 +236,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: TIDAK ditanggung perusahaan\
 https://twitter.com/rafiqidanil
 
+<img src="https://twitter.com/elfinsanjaya2/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Elfin Sanjaya**\
+Topics: JavaScript, Node.js, React.js, React Native, PHP, CodeIgniter \
+Jabatan: Software Engineer at code@Home\
+Domisili: Lampung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan\
+https://twitter.com/elfinsanjaya2
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
