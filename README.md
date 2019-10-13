@@ -171,6 +171,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 http://twitter.com/imamaris
 
+<img src="https://twitter.com/imrenagi/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Imre Nagi**\
+Topics: Docker, Kubernetes, Beam, Big Data, Kafka, Microservices, Golang \
+Jabatan: Google Developer Expert \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/imrenagi
+
+
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Onesinus Saut Parulian**\
@@ -180,6 +191,7 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: ❌ \
 https://twitter.com/OnesinusSPT
+
 
 <img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
