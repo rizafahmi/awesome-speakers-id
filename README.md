@@ -143,7 +143,7 @@ https://id.linkedin.com/in/angga-risky-58a981111
 <img src="https://pbs.twimg.com/profile_images/1079843240050708480/ImJ8mDY5_400x400.jpg" height="168px" width="168px" align="left" alt="" />
 
 **Diky Arga Anggara**\
-Topics: Frondend, WebVR, Micro Frontend, Vue.js, Design System component, PWA \
+Topics: Frontend, WebVR, Micro Frontend, Vue.js, Design System component, PWA \
 Jabatan: Frontend Developer [@bukalapak](https://bukalapak.com) \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
