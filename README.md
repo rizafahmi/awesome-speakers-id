@@ -85,6 +85,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://twitter.com/galpratama
 
+
+<img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Randy Vianda Putra**\
+Topics: Frontend, PWA, React, Javascript, Flutter, Go, PHP, Laravel  \
+Jabatan: Lead Frontend Engineer at [WorkLifeBeyond](https://www.wlb.co.id/)\
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Tidak ditanggung pihak manapun \
+https://twitter.com/aweutist
+
 ### Batam
 
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
