@@ -171,6 +171,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau pengundang \
 https://twitter.com/dikyarga
 
+<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/c62a797230c1342facc9ad58b111224e/5E2F1571/t51.2885-19/s320x320/64823870_342352313104670_1909097776067641344_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="left" alt="" />
+
+**Gazandi Cahyadarma**\
+Topics: Go, Ruby, Microservices, Kubernetes, Docker \
+Jabatan: Software Engineer, Backend @bukalapak \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau pengundang \
+https://www.instagram.com/gazandic/
+
 <img src="https://twitter.com/girikuncoro/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Giri Kuncoro**\
@@ -242,6 +252,16 @@ Domisili: Tangerang, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/nouvrizky10
+
+<img src="https://instagram.fcgk4-1.fna.fbcdn.net/vp/b262be425d1cd1221c32d9ecd8596c0c/5E2F999F/t51.2885-19/s320x320/67180935_440655763205096_3974301202274844672_n.jpg?_nc_ht=instagram.fcgk4-1.fna.fbcdn.net" height="168px" width="168px" align="left" alt="" />
+
+**Teno Siswono**\
+Topics: Frontend, VueJS, React, NodeJS, Firebase \
+Jabatan: Sr. Frontend Engineer @bukalapak \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau GDE \
+https://github.com/tenosiswono
 
 
 <img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="left" alt="" />
