@@ -307,6 +307,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/elfinsanjaya2
 
+<img src="https://twitter.com/FariMsenju/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Muhammad Fari Madyan**\
+Topics: JavaScript, PHP, Laravel, Lumen, Node.js \
+Jabatan: Software Engineer at code@Home\
+Domisili: Lampung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri\
+https://twitter.com/FariMsenju
+
 ### Malang
 
 <img src="https://twitter.com/andi_dirgantara/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
