@@ -96,6 +96,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Tidak ditanggung pihak manapun \
 https://twitter.com/aweutist
 
+
+<img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Anshorimuslim Syuhada**\
+Topics: IoT, NodeJS, React, Python, Data Engineering  \
+Jabatan: Head of Engineering at [Efishery](https://www.efishery.com/)\
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Ditanggung penyelenggara atau sendiri (khusus Bandung) \
+https://twitter.com/ans4175
+
 ### Batam
 
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
