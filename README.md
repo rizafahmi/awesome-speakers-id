@@ -222,6 +222,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/imrenagi
 
+<img src="https://twitter.com/ivankrisdotcom/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Ivan Kristianto**\
+Topics: Web, Wordpress, AMP, PWA, Service Worker, Docker, React \
+Jabatan: Google Developer Expert \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung GDE \
+https://twitter.com/ivankrisdotcom
+
+
 
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
