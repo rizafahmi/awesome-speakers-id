@@ -285,6 +285,15 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: TIDAK ditanggung perusahaan \
 https://twitter.com/hepiska1
 
+<img src="https://avatars1.githubusercontent.com/u/36786520?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Naufal Ziyad Luthfiansyah**\
+Topics: Backend, Go, Docker, PHP, ecommerce experience \
+Jabatan: Software Engineer at [Detikcom](https://detik.com)\
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Tidak ditanggung pihak manapun \
+https://twitter.com/naufalfian
 ### Lampung
 
 <img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
