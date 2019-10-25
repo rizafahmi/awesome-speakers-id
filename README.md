@@ -71,7 +71,7 @@ Topics: Android, Java, Kotlin, Arcitecture Pattern, [Android Jetpack](https://ww
 Jabatan: Academy Content Writer at [Dicoding Indonesia](https://www.dicoding.com/) \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+Akomodasi: Dapat ditanggung pengundang atau sendiri \
 https://www.instagram.com/gilang_adhan/
 
 <img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
