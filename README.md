@@ -34,15 +34,15 @@ https://twitter.com/_satyakresna
 
 ### Bandung
 
-<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+<img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="left" alt="" />
 
-**Raihan Nismara**\
-Topics: JavaScript, TypeScript, Angular, Firebase, CI/CD, PHP, Education \
-Jabatan: Full-Stack Developer at BelanjaQu \
+**Anshorimuslim Syuhada**\
+Topics: IoT, NodeJS, React, Python, Data Engineering  \
+Jabatan: Head of Engineering at [Efishery](https://www.efishery.com/)\
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung perusahaan atau sendiri \
-https://twitter.com/Rayhan_nj
+Akomodasi: Ditanggung penyelenggara atau sendiri (khusus Bandung) \
+https://twitter.com/ans4175
 
 <img src="https://avatars.io/twitter/djiwandou?size=original" height="168px" width="168px" align="left" alt="" />
 
@@ -53,6 +53,46 @@ Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
+
+<img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Galih Pratama**\
+Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
+Jabatan: Head of Digital Product at LEXAR.id \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/galpratama
+
+<img src="https://www.dicoding.com/blog/wp-content/uploads/2019/04/Image-1024x650.jpeg" height="168px" width="168px" align="left" alt="" />
+
+**Gilang Ramadhan**\
+Topics: Android, Java, Kotlin, Arcitecture Pattern, [Android Jetpack](https://www.dicoding.com/academies/129/), Community,\
+Jabatan: Academy Content Writer at [Dicoding Indonesia](https://www.dicoding.com/) \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://instagram.com/gilang_adhan
+
+<img src="https://twitter.com/Rayhan_nj/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Raihan Nismara**\
+Topics: JavaScript, TypeScript, Angular, Firebase, CI/CD, PHP, Education \
+Jabatan: Full-Stack Developer at BelanjaQu \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau sendiri \
+https://twitter.com/Rayhan_nj
+
+<img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Randy Vianda Putra**\
+Topics: Frontend, PWA, React, Javascript, Flutter, Go, PHP, Laravel  \
+Jabatan: Lead Frontend Engineer at [WorkLifeBeyond](https://www.wlb.co.id/)\
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Tidak ditanggung pihak manapun \
+https://twitter.com/aweutist
 
 <img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
 
@@ -74,38 +114,6 @@ Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
-
-<img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
-
-**Galih Pratama**\
-Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
-Jabatan: Head of Digital Product at LEXAR.id \
-Domisili: Bandung \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung perusahaan atau sendiri \
-https://twitter.com/galpratama
-
-
-<img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="left" alt="" />
-
-**Randy Vianda Putra**\
-Topics: Frontend, PWA, React, Javascript, Flutter, Go, PHP, Laravel  \
-Jabatan: Lead Frontend Engineer at [WorkLifeBeyond](https://www.wlb.co.id/)\
-Domisili: Bandung \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Tidak ditanggung pihak manapun \
-https://twitter.com/aweutist
-
-
-<img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="left" alt="" />
-
-**Anshorimuslim Syuhada**\
-Topics: IoT, NodeJS, React, Python, Data Engineering  \
-Jabatan: Head of Engineering at [Efishery](https://www.efishery.com/)\
-Domisili: Bandung \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Ditanggung penyelenggara atau sendiri (khusus Bandung) \
-https://twitter.com/ans4175
 
 ### Batam
 
