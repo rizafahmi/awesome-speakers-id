@@ -64,7 +64,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://twitter.com/galpratama
 
-<img src="https://www.dicoding.com/blog/wp-content/uploads/2019/04/Image-1024x650.jpeg" height="168px" width="168px" align="left" alt="" />
+<img src="https://media.licdn.com/dms/image/C5103AQEfNtB274MswA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=l2Mz1y-p4UQMg0BkztzUpb4cA-VafoHTQ0WX5Pk5_CA" height="168px" width="168px" align="left" alt="" />
 
 **Gilang Ramadhan**\
 Topics: Android, Java, Kotlin, Arcitecture Pattern, [Android Jetpack](https://www.dicoding.com/academies/129/), Community,\
