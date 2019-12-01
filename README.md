@@ -276,7 +276,7 @@ https://twitter.com/rendybjunior
 
 <img src="https://github.com/resir014.png" height="168px" width="168px" align="left" alt="" />
 
-**Resi Respati**
+**Resi Respati**\
 Topics: Nodejs, JavaScript, TypeScript, Web Development, Web Programming \
 Jabatan: Frontend Engineer @kataai \
 Domisili: Jakarta \
@@ -284,7 +284,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: ❌ \
 https://twitter.com/resir014
 
-<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="168px" width="168px" align="left" alt="" /> \
+<img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Riza Fahmi**\
 Topics: JavaScript, Node.js, React, ReasonML, Elixir, PWA, Web, Community,\
