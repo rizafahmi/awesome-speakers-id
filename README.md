@@ -260,19 +260,29 @@ Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framewo
 Jabatan: Web Programmer at PT. Supranusa Sindata \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: ❌ \
+Akomodasi: \
 https://twitter.com/OnesinusSPT
 
 
 <img src="https://twitter.com/rendybjunior/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Rendy B. Junior**\
-Topics: Big Data, BigQuery, Spark, Beam / DataFlow, Airflow, Kafka, BigTable, Data Warehouse\
+Topics: Big Data, BigQuery, Spark, Beam / DataFlow, Airflow, Kafka, BigTable, Data Warehouse\@bbhhh
 Jabatan: Data Engineering Lead @Traveloka \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/rendybjunior
+
+<img src="https://github.com/resir014.png" height="168px" width="168px" align="left" alt="" />
+
+**Resi Respati**
+Topics: Nodejs, JavaScript, TypeScript, Web Development, Web Programming
+Jabatan: Frontend Engineer @kataai
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/resir014
 
 <img src="https://twitter.com/rizafahmi22/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
