@@ -8,16 +8,19 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 ## Contents
 
-- [Bali](#Bali)
-- [Bandung](#Bandung)
-- [Batam](#Batam)
-- [Jakarta](#Jakarta)
-- [Lampung](#Lampung)
-- [Malang](#Malang)
-- [Medan](#Medan)
-- [Palembang](#Palembang)
-- [Yogyakarta](#Yogyakarta)
-- [Semarang](#Semarang)
+- [Awesome Speakers Indonesia ![Awesome](https://awesome.re)](#awesome-speakers-indonesia-awesomehttpsawesomere)
+  - [Contents](#contents)
+    - [Bali](#bali)
+    - [Bandung](#bandung)
+    - [Batam](#batam)
+    - [Jakarta](#jakarta)
+    - [Lampung](#lampung)
+    - [Malang](#malang)
+    - [Medan](#medan)
+    - [Palembang](#palembang)
+    - [Semarang](#semarang)
+    - [Singapura](#singapura)
+    - [Yogyakarta](#yogyakarta)
 
 ### Bali
 
@@ -93,17 +96,6 @@ Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Tidak ditanggung pihak manapun \
 https://twitter.com/aweutist
-
-<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
-
-**Sonny Lazuardi**\
-Topics: Web/Mobile Development (JavaScript, React), Product Design \
-Jabatan: Lead UX Engineer @grab \
-Domisili: Singapore \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung sendiri \
-https://twitter.com/sonnylazuardi
-
 
 <img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="left" alt="" />
 
@@ -424,6 +416,29 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/morensya
 
+### Semarang
+
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Rizma Abdullah Hanif**\
+Topics: Android Kotlin, Community, Education \
+Jabatan: Software Engineer at Dinustek, CEO Sandec \
+Domisili: Semarang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
+https://github.com/hanifabdullah21
+
+### Singapura
+
+<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
+
+**Sonny Lazuardi**\
+Topics: Web/Mobile Development (JavaScript, React), Product Design \
+Jabatan: Lead UX Engineer @grab \
+Domisili: Singapore \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung sendiri \
+https://twitter.com/sonnylazuardi
 
 ### Yogyakarta
 
@@ -447,16 +462,3 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
-
-
-### Semarang
-
-<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
-
-**Rizma Abdullah Hanif**\
-Topics: Android Kotlin, Community, Education \
-Jabatan: Software Engineer at Dinustek, CEO Sandec \
-Domisili: Semarang \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
-https://github.com/hanifabdullah21
