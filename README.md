@@ -462,6 +462,17 @@ https://twitter.com/mul14
 
 ### Semarang
 
+<img src="https://twitter.com/farahoktarina/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Farah Oktarina**\
+Topics: Web Development, Javascript (VueJS and NodeJs), PHP (Laravel), UI Framework (Bootstrap, Material Design) \
+Jabatan: Project Lead Developer at PT. Inixindo Persada Rekayasa, Lead Women Techmakers Semarang, Founder SANDEC \
+Domisili: Semarang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung oleh penyelenggara\
+https://twitter.com/farahoktarina
+
+
 <img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Rizma Abdullah Hanif**\
