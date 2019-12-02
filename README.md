@@ -472,3 +472,14 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/MirzaChilman
+
+
+<img src="https://twitter.com/mul14/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
+
+**Mulia Arifandi Nasution**\
+Topics: JavaScript, TypeScript, Node.js, Vue.js, Laravel, .Net Core, Programmer's Productivity \
+Jabatan: COO at https://Refactory.id \
+Domisili: Yogyakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau sendiri\
+https://twitter.com/mul14
