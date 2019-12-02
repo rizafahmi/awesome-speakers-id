@@ -430,7 +430,7 @@ https://github.com/hanifabdullah21
 
 ### Singapura
 
-<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1192652516262989825/rzHUUdm0_400x400.jpg" width="168px" align="left" alt="" />
 
 **Sonny Lazuardi**\
 Topics: Web/Mobile Development (JavaScript, React), Product Design \
