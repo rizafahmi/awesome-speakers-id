@@ -435,10 +435,20 @@ https://github.com/hanifabdullah21
 **Sonny Lazuardi**\
 Topics: Web/Mobile Development (JavaScript, React), Product Design \
 Jabatan: Lead UX Engineer @grab \
-Domisili: Singapore \
+Domisili: Singapura \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung sendiri \
 https://twitter.com/sonnylazuardi
+
+<img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="left" alt="" />
+
+**Zain Fathoni**\
+Topics: JavaScript, React, Testing \
+Jabatan: Senior Software Engineer at Ninja Van \
+Domisili: Singapura \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/zainfathoni
 
 ### Yogyakarta
 
