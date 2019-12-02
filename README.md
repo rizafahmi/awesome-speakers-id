@@ -441,7 +441,7 @@ https://twitter.com/sonnylazuardi
 <img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="left" alt="" />
 
 **Zain Fathoni**\
-Topics: JavaScript, React, Testing \
+Topics: JavaScript, React, Testing, Community \
 Jabatan: Senior Software Engineer at Ninja Van \
 Domisili: Singapura \
 Bersedia diundang keluar daerah domisili: ✅ \
