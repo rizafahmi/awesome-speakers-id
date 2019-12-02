@@ -8,19 +8,17 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 ## Contents
 
-- [Awesome Speakers Indonesia ![Awesome](https://awesome.re)](#awesome-speakers-indonesia-awesomehttpsawesomere)
-  - [Contents](#contents)
-    - [Bali](#bali)
-    - [Bandung](#bandung)
-    - [Batam](#batam)
-    - [Jakarta](#jakarta)
-    - [Lampung](#lampung)
-    - [Malang](#malang)
-    - [Medan](#medan)
-    - [Palembang](#palembang)
-    - [Semarang](#semarang)
-    - [Singapura](#singapura)
-    - [Yogyakarta](#yogyakarta)
+- [Bali](#bali)
+- [Bandung](#bandung)
+- [Batam](#batam)
+- [Jakarta](#jakarta)
+- [Lampung](#lampung)
+- [Malang](#malang)
+- [Medan](#medan)
+- [Palembang](#palembang)
+- [Semarang](#semarang)
+- [Singapura](#singapura)
+- [Yogyakarta](#yogyakarta)
 
 ### Bali
 
