@@ -241,6 +241,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/jacky_efendi
 
+<img src="https://avatars1.githubusercontent.com/u/24794196?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Adib Firman**\
+Topics: JavaScript, NodeJS, React, Web Development, PWA \
+Jabatan: Frontend Engineer [@qlue](https://www.qlue.co.id/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/dibfirman
+
 
 
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
