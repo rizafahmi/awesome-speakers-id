@@ -55,6 +55,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+<img src="https://avatars1.githubusercontent.com/u/6561394?v=4" height="168px" width="168px" align="left" alt="" />
+
+**Fariz Rizaldy**\
+Topics: Web Development, JavaScript, Node.js, DevOps  \
+Jabatan: Fellow at @evilfactorylabs \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau pengundang \
+https://twitter.com/faultable
+
 <img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Galih Pratama**\
