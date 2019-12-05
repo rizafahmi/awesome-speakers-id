@@ -11,6 +11,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Bali](#bali)
 - [Bandung](#bandung)
 - [Batam](#batam)
+- [Gresik](#gresik)
 - [Jakarta](#jakarta)
 - [Lampung](#lampung)
 - [Malang](#malang)
@@ -114,8 +115,19 @@ Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer PROSPACE\
 Domisili: Batam\
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: TIDAK ditanggung pihak manapun
+Akomodasi: TIDAK ditanggung pihak manapun \
 
+### Gresik
+
+<img src="https://avatars3.githubusercontent.com/u/1897570?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Yudhi Satrio**\
+Topics: HTML, CSS, Typescript, Vuejs, A11Y, Project Management\
+Jabatan: Front End Engineer\
+Domisili: Gresik\
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/isatrio
 
 ### Jakarta
 
