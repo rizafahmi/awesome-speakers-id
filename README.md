@@ -140,6 +140,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://twitter.com/ngurajeka
 
+<img src="https://avatars1.githubusercontent.com/u/24794196?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Adib Firman**\
+Topics: JavaScript, NodeJS, React, Web Development, PWA \
+Jabatan: Frontend Engineer [@qlue](https://www.qlue.co.id/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/dibfirman
+
 <img src="https://media.licdn.com/dms/image/C5103AQFLLRVkUwk9Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=BSkJx_QqkuBaA9zTn3cjk0LCZ9HkEtCYyZaU9HwA5F0" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
 **Adityo Pratomo**\
@@ -240,7 +250,6 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/jacky_efendi
-
 
 
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
