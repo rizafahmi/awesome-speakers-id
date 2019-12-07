@@ -8,6 +8,7 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 ## Contents
 
+- [Australia](#Australia)
 - [Bali](#Bali)
 - [Bandung](#Bandung)
 - [Batam](#Batam)
@@ -18,6 +19,21 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 - [Palembang](#Palembang)
 - [Yogyakarta](#Yogyakarta)
 - [Semarang](#Semarang)
+
+
+### Australia
+
+<img src="http://ielab.io/images/rischan.jpeg" width="168px" align="left" alt="" />
+
+**Rischan Mafrur**\
+Topics: Python for Data Science, Machine Learning/AI, Data Exploration. \
+Jabatan: PhD student @ Data Science Group, The University of Queensland, Australia \
+Domisili: Brisbane, Australia \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung pihak perusahaan \
+https://twitter.com/PyDataScienceID \
+https://pydatascience.org/
+
 
 ### Bali
 
@@ -31,16 +47,7 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: TIDAK ditanggung pihak perusahaan \
 https://twitter.com/_satyakresna
 
-<img src="http://ielab.io/images/rischan.jpeg" width="168px" align="left" alt="" />
 
-**Rischan Mafrur**\
-Topics: Python for Data Science, Machine Learning/AI, Data Exploration. \
-Jabatan: PhD student @ Data Science Group, The University of Queensland, Australia \
-Domisili: Brisbane, Australia \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: TIDAK ditanggung pihak perusahaan \
-https://twitter.com/PyDataScienceID \
-https://pydatascience.org/
 
 ### Bandung
 
