@@ -8,17 +8,20 @@ Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih
 
 ## Contents
 
+
 - [Australia](#Australia)
-- [Bali](#Bali)
-- [Bandung](#Bandung)
-- [Batam](#Batam)
-- [Jakarta](#Jakarta)
-- [Lampung](#Lampung)
-- [Malang](#Malang)
-- [Medan](#Medan)
-- [Palembang](#Palembang)
-- [Yogyakarta](#Yogyakarta)
-- [Semarang](#Semarang)
+- [Bali](#bali)
+- [Bandung](#bandung)
+- [Batam](#batam)
+- [Gresik](#gresik)
+- [Jakarta](#jakarta)
+- [Lampung](#lampung)
+- [Malang](#malang)
+- [Medan](#medan)
+- [Palembang](#palembang)
+- [Semarang](#semarang)
+- [Singapura](#singapura)
+- [Yogyakarta](#yogyakarta)
 
 
 ### Australia
@@ -71,6 +74,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/djiwandou
 
+<img src="https://avatars1.githubusercontent.com/u/6561394?v=4" height="168px" width="168px" align="left" alt="" />
+
+**Fariz Rizaldy**\
+Topics: Web Development, JavaScript, Node.js, DevOps  \
+Jabatan: Fellow at @evilfactorylabs \
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan atau pengundang \
+https://twitter.com/faultable
+
 <img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Galih Pratama**\
@@ -111,17 +124,6 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Tidak ditanggung pihak manapun \
 https://twitter.com/aweutist
 
-<img src="https://pbs.twimg.com/profile_images/1078223002183950336/07Pow2OM_400x400.jpg" width="168px" align="left" alt="" />
-
-**Sonny Lazuardi**\
-Topics: Web/Mobile Development (JavaScript, React), Product Design \
-Jabatan: Lead UX Engineer @grab \
-Domisili: Singapore \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung sendiri \
-https://twitter.com/sonnylazuardi
-
-
 <img src="https://scontent.fbdo2-1.fna.fbcdn.net/v/t1.0-9/67499122_10214477255740890_334080745469378560_n.jpg?_nc_cat=105&_nc_eui2=AeGRm5dht7LGOcQ6hxlZw1uUkcv9g4UIGO8ChcTI0UJegkwXTbz6dsbBnl16ZbV9ojYQwFFRbu2OE1FdM8IEOcqfRslOAIbqoXgoLIixjdhSRg&_nc_oc=AQmIl54q35M5I8rrVSlZKg9olfJXCr2sjN4ARiGnaoOWWfIdSCeGBaIv1tBa_MtA4h4&_nc_ht=scontent.fbdo2-1.fna&oh=b1ea22d9f0fac14b18d9e634d3866a8f&oe=5E31E37C" height="168px" width="168px" align="left" alt="" />
 
 **Yahya F. Al Fatih**\
@@ -141,8 +143,19 @@ Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer PROSPACE\
 Domisili: Batam\
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: TIDAK ditanggung pihak manapun
+Akomodasi: TIDAK ditanggung pihak manapun \
 
+### Gresik
+
+<img src="https://avatars3.githubusercontent.com/u/1897570?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Yudhi Satrio**\
+Topics: HTML, CSS, Typescript, Vuejs, A11Y, Project Management\
+Jabatan: Front End Engineer\
+Domisili: Gresik\
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/isatrio
 
 ### Jakarta
 
@@ -166,6 +179,16 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://twitter.com/ngurajeka
+
+<img src="https://avatars1.githubusercontent.com/u/24794196?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Adib Firman**\
+Topics: JavaScript, NodeJS, React, Web Development, PWA \
+Jabatan: Frontend Engineer [@qlue](https://www.qlue.co.id/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau perusahaan \
+https://twitter.com/dibfirman
 
 <img src="https://media.licdn.com/dms/image/C5103AQFLLRVkUwk9Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=BSkJx_QqkuBaA9zTn3cjk0LCZ9HkEtCYyZaU9HwA5F0" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
@@ -269,7 +292,6 @@ Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/jacky_efendi
 
 
-
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Onesinus Saut Parulian**\
@@ -328,7 +350,7 @@ Topics: Frontend, VueJS, React, NodeJS, Firebase \
 Jabatan: Sr. Frontend Engineer @bukalapak \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung perusahaan atau GDE \
+Akomodasi: Dapat ditanggung perusahaan \
 https://github.com/tenosiswono
 
 
@@ -441,6 +463,39 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan\
 https://twitter.com/morensya
 
+### Semarang
+
+<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Rizma Abdullah Hanif**\
+Topics: Android Kotlin, Community, Education \
+Jabatan: Software Engineer at Dinustek, CEO Sandec \
+Domisili: Semarang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
+https://github.com/hanifabdullah21
+
+### Singapura
+
+<img src="https://pbs.twimg.com/profile_images/1192652516262989825/rzHUUdm0_400x400.jpg" width="168px" align="left" alt="" />
+
+**Sonny Lazuardi**\
+Topics: Web/Mobile Development (JavaScript, React), Product Design \
+Jabatan: Lead UX Engineer @grab \
+Domisili: Singapura \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung sendiri \
+https://twitter.com/sonnylazuardi
+
+<img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="left" alt="" />
+
+**Zain Fathoni**\
+Topics: JavaScript, React, Testing, Community \
+Jabatan: Senior Software Engineer at Ninja Van \
+Domisili: Singapura \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/zainfathoni
 
 ### Yogyakarta
 
@@ -475,16 +530,3 @@ Domisili: Yogyakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau sendiri\
 https://twitter.com/mul14
-
-
-### Semarang
-
-<img src="https://avatars3.githubusercontent.com/u/26805731?s=400&v=4" height="168px" width="168px" align="left" alt="" />
-
-**Rizma Abdullah Hanif**\
-Topics: Android Kotlin, Community, Education \
-Jabatan: Software Engineer at Dinustek, CEO Sandec \
-Domisili: Semarang \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
-https://github.com/hanifabdullah21
