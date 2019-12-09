@@ -332,7 +332,7 @@ Topics: Frontend, VueJS, React, NodeJS, Firebase \
 Jabatan: Sr. Frontend Engineer @bukalapak \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung perusahaan atau GDE \
+Akomodasi: Dapat ditanggung perusahaan \
 https://github.com/tenosiswono
 
 
