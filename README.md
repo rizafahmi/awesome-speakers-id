@@ -87,7 +87,7 @@ https://twitter.com/faultable
 <img src="https://avatars.io/twitter/galpratama?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Galih Pratama**\
-Topics: Vue, Laravel, Nuxt, Javascript, PHP  \
+Topics: Vue, Laravel, Nuxt, JavaScript, PHP  \
 Jabatan: Head of Digital Product at LEXAR.id \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
@@ -117,7 +117,7 @@ https://twitter.com/Rayhan_nj
 <img src="https://avatars.io/twitter/aweutist?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Randy Vianda Putra**\
-Topics: Frontend, PWA, React, Javascript, Flutter, Go, PHP, Laravel  \
+Topics: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel  \
 Jabatan: Lead Frontend Engineer at [WorkLifeBeyond](https://www.wlb.co.id/)\
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
@@ -139,7 +139,7 @@ https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
 <img src="https://avatars3.githubusercontent.com/u/32693625?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
 **DARVIN SINAGA**\
-Topics: Javascript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
+Topics: JavaScript, Typecript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer PROSPACE\
 Domisili: Batam\
 Bersedia diundang keluar daerah domisili: ✅ \
@@ -162,7 +162,7 @@ https://twitter.com/isatrio
 <img src="https://avatars2.githubusercontent.com/u/5897415?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
 **Abdul Fattah Ikhsan**\
-Topics: Javascript, TypeScript, Node.js, React Native, Flutter, Ruby, Community,\
+Topics: JavaScript, TypeScript, Node.js, React Native, Flutter, Ruby, Community,\
 Jabatan: Software Engineer @Wallex \
 Domisili: Bekasi, Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
@@ -253,7 +253,7 @@ https://twitter.com/girikuncoro
 <img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Imam Aris Munandar**\
-Topics: Data Engineer, Data Scientist, UX Researcher, Design Sprint, Javascript \
+Topics: Data Engineer, Data Scientist, UX Researcher, Design Sprint, JavaScript \
 Jabatan: Web and Apps Development at Time International \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
@@ -295,7 +295,7 @@ https://twitter.com/jacky_efendi
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Onesinus Saut Parulian**\
-Topics: Web Development, Web Programming, Database, Javascript, PHP, PHP Framework \
+Topics: Web Development, Web Programming, Database, JavaScript, PHP, PHP Framework \
 Jabatan: Web Programmer at PT. Supranusa Sindata \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
