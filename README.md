@@ -22,6 +22,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - [Medan](#medan)
 - [Palembang](#palembang)
 - [Semarang](#semarang)
+- [Sidoarjo](#sidoarjo)
 - [Singapura](#singapura)
 - [Yogyakarta](#yogyakarta)
 
@@ -172,6 +173,17 @@ Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/abdfattahikhsan
 
 
+<img src="https://user-images.githubusercontent.com/20434351/70529504-4b869b80-1b83-11ea-8dcc-feeba59f16bc.jpg" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Adrianti Rusli** \
+Topics: JavaScript, PHP, Web Development, WordPress, Skill Gap in Industry, Gender Diversity in Tech Industry \
+Jabatan: Front End Developer di IDS Skincare International \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung pihak perusahaan \
+https://twitter.com/adriantirusli
+
+
 <img src="https://avatars3.githubusercontent.com/u/3364191?s=460&v=4" height="168px" width="168px" align="left" />
 
 **Ady Rahmat MA**\
@@ -252,6 +264,16 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/girikuncoro
 
+<img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Hepiska Franatagola**\
+Topics: Frontend, PWA, react, react-native, nodejs, graphql, atomic design pattern, image processing, machine learning, python \
+Jabatan: Lead Software engineer [@pomona](https://web.pomona.id/) \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: TIDAK ditanggung perusahaan \
+https://twitter.com/hepiska1
+
 <img src="https://avatars2.githubusercontent.com/u/17156649?s=460&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Imam Aris Munandar**\
@@ -271,6 +293,17 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung GDE \
 https://twitter.com/imrenagi
+
+
+<img src="https://avatars2.githubusercontent.com/u/7221389?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Irfan Maulana** \
+Topics: JavaScript, Vue.js, React, Node.js, Web, Community \
+Jabatan: Principal Engineer @tokopedia \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung perusahaan jika perusahaan jadi sponsor \
+https://github.com/mazipan
 
 <img src="https://twitter.com/ivankrisdotcom/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
@@ -292,6 +325,26 @@ Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/jacky_efendi
+
+<img src="https://user-images.githubusercontent.com/20434351/70531146-ee8ce480-1b86-11ea-9f25-ca2f2bfe9bdc.jpg" height="168px" width="168px" align="left" alt="" />
+
+**Jefry Dewangga**\
+Topics: JavaScript, Vue.js, Node.js, Web, Community \
+Jabatan: Associate Software Engineer @DANA Indonesia \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang atau sendiri \
+https://twitter.com/jefrydco
+
+<img src="https://avatars1.githubusercontent.com/u/36786520?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Naufal Ziyad Luthfiansyah**\
+Topics: Backend, Go, Docker, PHP, ecommerce experience \
+Jabatan: Software Engineer at [Detikcom](https://detik.com)\
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Tidak ditanggung pihak manapun \
+https://twitter.com/naufalfian
 
 
 <img src="https://twitter.com/OnesinusSPT/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
@@ -356,25 +409,17 @@ Akomodasi: Dapat ditanggung perusahaan \
 https://github.com/tenosiswono
 
 
-<img src="https://avatars2.githubusercontent.com/u/22175523?s=400&u=1c6de36cd149e7625d364c2e8c719e277f0ea81d&v=4" height="168px" width="168px" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/927468387407511553/3JvCuCzK_400x400.jpg" height="168px" width="168px" align="left" alt="" />
 
-**Hepiska Franatagola**\
-Topics: Frontend, PWA, react, react-native, nodejs, graphql, atomic design pattern, image processing, machine learning, python \
-Jabatan: Lead Software engineer [@pomona](https://web.pomona.id/) \
+**Yohan Totting** \
+Topics: JavaScript, Web, Community \
+Jabatan: Web Developer Relation at @Google \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: TIDAK ditanggung perusahaan \
-https://twitter.com/hepiska1
+Akomodasi: Dapat ditanggung perusahaan atau GDE \
+https://twitter.com/tyohan
 
-<img src="https://avatars1.githubusercontent.com/u/36786520?s=400&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
-**Naufal Ziyad Luthfiansyah**\
-Topics: Backend, Go, Docker, PHP, ecommerce experience \
-Jabatan: Software Engineer at [Detikcom](https://detik.com)\
-Domisili: Jakarta \
-Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Tidak ditanggung pihak manapun \
-https://twitter.com/naufalfian
 ### Lampung
 
 <img src="https://twitter.com/rafiqidanil/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
@@ -476,6 +521,20 @@ Domisili: Semarang \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggun pribadi jika di daerah domisili\
 https://github.com/hanifabdullah21
+
+
+### Sidoarjo
+
+<img src="https://avatars0.githubusercontent.com/u/12091318?s=460&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Naufal Rabbani** \
+Topics: Vue, React, JavaScript \
+Jabatan: Frontend Engineer at [Warung Pintar](https://warungpintar.co.id/) \
+Domisili: Sidoarjo \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pribadi jika di daerah domisili \
+https://twitter.com/BosNaufal
+
 
 ### Singapura
 
