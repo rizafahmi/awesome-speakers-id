@@ -248,7 +248,7 @@ https://twitter.com/dikyarga
 
 **Gazandi Cahyadarma**\
 Topics: Go, Ruby, Microservices, Kubernetes, Docker \
-Jabatan: Software Engineer, Backend @bukalapak \
+Jabatan: Software Engineer, Backend at Ruangguru \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau pengundang \
