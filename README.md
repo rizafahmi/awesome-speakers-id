@@ -388,6 +388,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
 https://twitter.com/rizafahmi22
 
+
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFpF42VjuvuPQ/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=K7oXE0hZG27eebmU6bXF2fgJOpkgykh1xIpUyyN2YpA" height="168px" width="168px" align="left" alt="" />
+
+**Rizal Asrul Pambudi**\
+Topics: HTML, CSS, JavaScript, Vue.js, PWA, Web, Community,\
+Jabatan: Software Engineer, Frontend at Bukalapak \
+Domisili: Jakarta \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: ❌ \
+https://twitter.com/asrulole
+
 <img src="https://twitter.com/nouvrizky10/profile_image?size=original" height="168px" width="168px" align="left" alt="" />
 
 **Sidiq Permana**\
