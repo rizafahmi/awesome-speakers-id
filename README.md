@@ -100,8 +100,8 @@ https://twitter.com/galpratama
 <img src="https://media.licdn.com/dms/image/C5103AQEfNtB274MswA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=l2Mz1y-p4UQMg0BkztzUpb4cA-VafoHTQ0WX5Pk5_CA" height="168px" width="168px" align="left" alt="" />
 
 **Gilang Ramadhan**\
-Topics: Android, Java, Kotlin, Arcitecture Pattern, [Android Jetpack](https://www.dicoding.com/academies/129/), Community,\
-Jabatan: Academy Content Writer at [Dicoding Indonesia](https://www.dicoding.com/) \
+Topics: Android, Java, Kotlin, Arcitecture Pattern, <a href="https://www.dicoding.com/academies/129/" rel="nofollow">Android Jetpack</a>, Community,\
+Jabatan: Academy Content Writer at <a href="https://www.dicoding.com/" rel="nofollow">Dicoding Indonesia</a> \
 Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau sendiri \
@@ -392,7 +392,7 @@ https://twitter.com/resir014
 
 **Riza Fahmi**\
 Topics: JavaScript, Node.js, React, ReasonML, Elixir, PWA, Web, Community,\
-Jabatan: Chief Evangelist at @hacktiv8, Web GDE \
+Jabatan: Co-founder at [HACKTIV8](https://hacktiv8.com/), Web GDE \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau GDE \
