@@ -17,6 +17,7 @@ Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https:
 - [Batam](#batam)
 - [Gresik](#gresik)
 - [Jakarta](#jakarta)
+- [Jepang](#jepang)
 - [Lampung](#lampung)
 - [Malang](#malang)
 - [Medan](#medan)
@@ -182,6 +183,17 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau perusahaan \
 https://twitter.com/abdfattahikhsan
 
+### Jepang
+
+<img src="https://avatars2.githubusercontent.com/u/10794735?s=400&u=fa1b4f0c1330b306af21096036519b697e33ded7&v=4" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
+
+**Muhammad Angga Muttaqien**\
+Topics: Artificial Intelligence, Deep Learning, Robotics, Data Science, Python \
+Jabatan: AI Research Engineer GRIC Co., Ltd. \
+Domisili: Tokyo, Jepang \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Dapat ditanggung pengundang \
+https://twitter.com/muhamuttaqien
 
 <img src="https://user-images.githubusercontent.com/20434351/70529504-4b869b80-1b83-11ea-8dcc-feeba59f16bc.jpg" height="168px" width="168px" align="left" alt="speaker-photo-profile" />
 
