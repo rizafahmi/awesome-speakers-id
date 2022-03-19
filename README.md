@@ -581,14 +581,14 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung sendiri \
 https://twitter.com/sonnylazuardi
 
-<img src="https://pbs.twimg.com/profile_images/1138905438169120768/HuXWQVFi_400x400.jpg" width="168px" align="left" alt="" />
+<img src="https://github.com/zainfathoni/www.zainfathoni.com/raw/2363adf355f24f8dcb780dfe138f1e7442fb78f9/static/images/zain.jpg" width="168px" align="left" alt="Zain Fathoni" />
 
 **Zain Fathoni**\
-Topics: JavaScript, React, Testing, Community \
+Topics: JavaScript, TypeScript, React, Testing, Remix, KawalCOVID19, WargaBantuWarga \
 Jabatan: Senior Software Engineer at Ninja Van \
 Domisili: Singapura \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: ❌ \
+Akomodasi: Dapat ditanggung sendiri selama protokol COVID-19 memungkinkan \
 https://twitter.com/zainfathoni
 
 ### Yogyakarta
