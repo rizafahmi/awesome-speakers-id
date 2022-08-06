@@ -341,12 +341,12 @@ https://twitter.com/ivankrisdotcom
 <img src="https://avatars3.githubusercontent.com/u/7252454?s=400&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Jacky Efendi**\
-Topics: JavaScript, NodeJS, React, Web Development, PWA \
-Jabatan: Senior Software Engineer - Web Platform [@tokopedia](https://www.tokopedia.com) \
+Topics: JS/TS, NodeJS, React, GraphQL, Web Development, Async Work  \
+Jabatan: Senior Software Engineer \
 Domisili: Jakarta \
 Bersedia diundang keluar daerah domisili: ✅ \
-Akomodasi: Dapat ditanggung pengundang atau perusahaan \
-https://twitter.com/jacky_efendi
+Akomodasi: Dapat ditanggung pengundang \
+https://twitter.com/jackyef__
 
 <img src="https://user-images.githubusercontent.com/20434351/70531146-ee8ce480-1b86-11ea-9f25-ca2f2bfe9bdc.jpg" height="168px" width="168px" align="left" alt="" />
 
