@@ -6,8 +6,6 @@ Mari kita kumpulkan data para developer keren asal Indonesia yang dapat diundang
 
 Silakan tambahkan nama teman, rekan atau diri sendiri untuk komunitas yang lebih baik. Jika ingin menambahkan teman, saya sarankan minta izin terlebih dahulu biar lebih sopan 🙇‍♂️
 
-Bagi yang berkenan mohon bantuannya dalam bentuk donasi via [Karya Karsa](https://karyakarsa.com/rizafahmi/) untuk melanjutkan perjuangan mengelola repositori ini. Seharga segelas kopi cukup kok ☕
-
 ## Contents
 
 
