@@ -136,6 +136,8 @@ Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung perusahaan atau sendiri \
 https://www.linkedin.com/in/yahya-fadhlulloh-al-fatih-a568a455/
 
+<img src="https://media-exp1.licdn.com/dms/image/C5103AQF_Wdns59m9Lg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=oUlq2Y4DVKKv7hFUrSEsFvdmjYrAi9WNx-Ma_4xQV5E" height="168px" width="168px" align="left" alt="" />
+
 **Hadian Rahmat**\
 Topics: AdonisJS, NodeJS, Laravel, Docker, \
 Jabatan: Backend Engineer at GITS Indonesia \
@@ -143,8 +145,6 @@ Domisili: Bandung \
 Bersedia diundang keluar daerah domisili: ✅ \
 Akomodasi: Dapat ditanggung pengundang atau sendiri \
 https://www.linkedin.com/in/hadianr/
-
-<img src="https://media-exp1.licdn.com/dms/image/C5103AQF_Wdns59m9Lg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=oUlq2Y4DVKKv7hFUrSEsFvdmjYrAi9WNx-Ma_4xQV5E" height="168px" width="168px" align="left" alt="" />
 
 ### Batam
 
