@@ -56,6 +56,16 @@ https://twitter.com/_satyakresna
 
 ### Bandung
 
+<img src="https://avatars0.githubusercontent.com/u/459648?s=400&v=4" height="168px" width="168px" align="left" alt="" />
+
+**Abdul Malik Ikhsan**\
+Topics: AST, Static Analysis, PHP, Rector, PHPStan, StructArmed \
+Jabatan: CTO at Edukai, s.r.o for [RectorPHP](https://getrector.com/)\
+Domisili: Bandung \
+Bersedia diundang keluar daerah domisili: ✅ \
+Akomodasi: Ditanggung penyelenggara \
+https://x.com/samsonasik
+
 <img src="https://avatars0.githubusercontent.com/u/3961872?s=400&v=4" height="168px" width="168px" align="left" alt="" />
 
 **Anshorimuslim Syuhada**\
